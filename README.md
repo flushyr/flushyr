@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roger</h1>
 Welcome to my GitHub.
 
-My name is Roger Zhu, and I currently study at the University of Queensland.
+I currently study at the University of Queensland.
 I am in Advanced Science (Hons) majoring in Computer Science and Statistics, with a minor in Data Science.
 
 Ever since I picked up coding, I have used it to automate repetitive parts of my life. I will post any interesting applications I build and school projects I am proud of on my page.
