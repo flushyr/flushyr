@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Roger</h1>
 <h3 align="center">Welcome to my GitHub.</h3>
-<h3 align="center"My name is Roger Zhu, and I currently study at the University of Queensland. </h3>
-<h3 align="center"I am in Advanced Science (Hons) majoring in Computer Science, Statistics, with a minor in Data Science.</h3>
-
-<h3 align="center"Ever since I picked up coding, I have used it to automate repetitive parts of my life. I will post any interesting applicaitons I build and school projects I am proud of on my page.</h3>
+<h3 align="center">My name is Roger Zhu, and I currently study at the University of Queensland. </h3>
+<h3 align="center">I am in Advanced Science (Hons) majoring in Computer Science, Statistics, with a minor in Data Science.</h3>
+<h3 align="center">Ever since I picked up coding, I have used it to automate repetitive parts of my life. I will post any interesting applicaitons I build and school projects I am proud of on my page.</h3>
 
 - 🌱 I’m currently learning **s**
 
