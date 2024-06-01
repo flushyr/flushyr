@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi 👋
+Welcome to my GitHub.
+My name is Roger Zhu, and I currently study at the University of Queensland. 
+I am in Advanced Science (Hons) majoring in Computer Science, Statistics, with a minor in Data Science.
 
+Ever since I picked up coding, I have used it to automate repetitive parts of my life. I will post any interesting applicaitons I build and school projects I am proud of on my page.
 <!--
 **flushyr/flushyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
