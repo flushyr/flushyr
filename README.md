@@ -1,4 +1,4 @@
-![image](https://github.com/flushyr/flushyr/assets/60168621/580ef064-ddd2-4517-a100-cb4f0d4243a2)<h1 align="center">Hi 👋, I'm Roger</h1>
+Hi 👋, I'm Roger</h1>
 Welcome to my GitHub.
 
 I currently study at the University of Queensland.
