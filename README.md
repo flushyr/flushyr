@@ -6,7 +6,7 @@ I am in Advanced Science (Hons) majoring in Computer Science with minors in Stat
 
 Ever since I picked up coding, I have used it to automate repetitive parts of my life. I will post any interesting applications I build and school projects I am proud of on my page.
 
-- 🌱 I’m currently learning **STAT2904, CSSE2010, DATA2001, and COMP3506**
+- 🌱 I’m currently learning **STAT3901, MATH2901, COMP3400, and COMP4403**
 - 📫 How to reach me **roger.zhu@outlook.com.au**
 
 <h3 align="left">Connect with me:</h3>
